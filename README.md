@@ -32,6 +32,9 @@
 <p align="center">
   <img src="https://trophy.ryglcloud.net/?username=momanamjad&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Moman_Amjad's GitHub Trophies" />
 </p>
+<p>
+   <img src="https://github-profile-trophy.vercel.app/?username=momanamjad&theme=highcontrast&no-frame=true&no-bg=true&margin-w=4" alt="Moman_Amjad's GitHub Trophies" />
+</p>
 
 <p align="center">
   <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=momanamjad&theme=highcontrast&radius=10" alt="momanamjad's Activity Graph" />
