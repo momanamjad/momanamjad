@@ -47,14 +47,21 @@ const moman = {
 
 ## GitHub Stats
 
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=momanamjad&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com/?user=momanamjad&theme=github_dark_dimmed&hide_border=true&border_radius=10" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=momanamjad&langs_count=6&layout=compact&theme=github_dark&hide_border=true&border_radius=10" alt="Top Languages" />
-</p>
+<table align="center">
+  <tr>
+    <td width="50%">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=momanamjad&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" width="100%" />
+    </td>
+    <td width="50%">
+      <img src="https://streak-stats.demolab.com/?user=momanamjad&theme=github_dark_dimmed&hide_border=true&border_radius=10" alt="GitHub Streak" width="100%" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=momanamjad&langs_count=8&layout=compact&theme=github_dark&hide_border=true&border_radius=10" alt="Top Languages" width="50%" />
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -69,7 +76,7 @@ const moman = {
 ## Activity Graph
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=momanamjad&theme=github-dark&hide_border=true&radius=10" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=momanamjad&theme=github-dark&hide_border=true&radius=10" alt="Activity Graph" width="100%" />
 </p>
 
 ---
@@ -79,6 +86,16 @@ const moman = {
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D Contribution City" width="100%" />
 </div>
+
+---
+
+## Pac-Man Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/momanamjad/momanamjad/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/momanamjad/momanamjad/output/pacman-contribution-graph.svg">
+  <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/momanamjad/momanamjad/output/pacman-contribution-graph.svg" width="100%" />
+</picture>
 
 ---
 
