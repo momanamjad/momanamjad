@@ -2,6 +2,10 @@
 <h3 align="center">Software Engineer · MERN Stack Developer · CS Student</h3>
 
 <p align="center">
+  <img src="https://komarev.com/ghpvc/?username=momanamjad&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+</p>
+
+<p align="center">
   <a href="https://momanamjad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
   <a href="https://www.linkedin.com/in/moman-amjad"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:momanamjad07@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
@@ -44,9 +48,37 @@ const moman = {
 ## GitHub Stats
 
 <p align="center">
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=momanamjad&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" />
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=momanamjad&langs_count=6&layout=compact&theme=github_dark&hide_border=true&border_radius=10" alt="Top Languages" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=momanamjad&show_icons=true&theme=github_dark&hide_border=true&border_radius=10&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://streak-stats.demolab.com/?user=momanamjad&theme=github_dark_dimmed&hide_border=true&border_radius=10" alt="GitHub Streak" />
 </p>
+
+<p align="center">
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=momanamjad&langs_count=6&layout=compact&theme=github_dark&hide_border=true&border_radius=10" alt="Top Languages" />
+</p>
+
+---
+
+## Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=momanamjad&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</p>
+
+---
+
+## Activity Graph
+
+<p align="center">
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=momanamjad&theme=github-dark&hide_border=true&radius=10" alt="Activity Graph" />
+</p>
+
+---
+
+## Contribution Calendar
+
+<div align="center">
+  <img src="profile-3d-city.svg" alt="3D Contribution City" width="100%" />
+</div>
 
 ---
 
