@@ -61,7 +61,7 @@ const moman = {
 ## Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=momanamjad&theme=gitdimmed&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="trophy.svg" alt="GitHub Trophies" />
 </p>
 
 ---

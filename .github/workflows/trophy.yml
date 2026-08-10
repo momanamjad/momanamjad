@@ -1,0 +1,29 @@
+name: Update README Trophy
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate trophy card
+        uses: soulteary/github-profile-trophy-action@v1.0.0
+        with:
+          options: "username=momanamjad&theme=gitdimmed&no-frame=true&no-bg=true&column=7&margin-w=4"
+          path: trophy.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit trophy card
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add trophy.svg
+          git commit -m "Update trophy SVG" || exit 0
+          git push
