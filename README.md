@@ -49,6 +49,14 @@ const moman = {
 
 ---
 
+## Featured Projects
+
+- 🌐 **[Personal Portfolio](https://momanamjad.vercel.app/)** - Modern portfolio showcasing full-stack applications, interactive UIs, and responsive design.
+- 🌉 **[Cross-device-bridge](https://github.com/momanamjad/Cross-device-bridge)** - Real-time device synchronization and data streaming tool.
+- 🏗️ **[Blueprint3D](https://github.com/momanamjad/Blueprint3D)** - Interactive 3D floor plan and spatial modeling application.
+
+---
+
 ## GitHub Stats
 
 <table align="center">
