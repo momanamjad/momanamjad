@@ -1,4 +1,4 @@
-﻿<h1 align="center">Hey ðŸ‘‹ I'm Moman Amjad</h1>
+<h1 align="center">Hey ðŸ‘‹ I'm Moman Amjad</h1>
 <h3 align="center">Software Engineer Â· MERN Stack Developer Â· CS Student</h3>
 
 <p align="center">
@@ -108,6 +108,19 @@ const moman = {
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/momanamjad/momanamjad/output/pacman-contribution-graph.svg">
   <img alt="Pac-Man Contribution Graph" src="https://raw.githubusercontent.com/momanamjad/momanamjad/output/pacman-contribution-graph.svg" width="100%" />
 </picture>
+
+---
+
+<p align="center">
+---
+
+## 📬 Connect With Me
+
+<p align="center">
+  <a href="https://linkedin.com/in/moman-amjad"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
+  <a href="https://momanamjad.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>&nbsp;
+  <a href="mailto:momanamjad07@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+</p>
 
 ---
 
