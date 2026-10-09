@@ -1,4 +1,4 @@
-<h1 align="center">Hey ðŸ‘‹ I'm Moman Amjad</h1>
+<h1 align="center">Hey I'm Moman Amjad</h1>
 <h3 align="center">Software Engineer Â· MERN Stack Developer Â· CS Student</h3>
 
 <p align="center">
