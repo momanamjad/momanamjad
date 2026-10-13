@@ -75,16 +75,6 @@ const moman = {
   <img src="trophy.svg" alt="GitHub Trophies" />
 </p>
 
----
-
-## Activity Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=momanamjad&theme=github-dark&hide_border=true&radius=10" alt="Activity Graph" width="100%" />
-</p>
-
----
-
 ## Contribution Calendar
 
 <div align="center">
