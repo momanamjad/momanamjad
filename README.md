@@ -1,5 +1,5 @@
 <h1 align="center">Hey there I'm Moman Amjad</h1>
-<h3 align="center">Software Engineer - Â MERN Stack Developer and Â CS Student</h3>
+<h3 align="center">Software Engineer - Â MERN Stack Developer also a CS Student</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=momanamjad&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
