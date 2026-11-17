@@ -22,7 +22,6 @@ const moman = {
 };
 ```
 
----
 
 ## Tech Stack
 
