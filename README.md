@@ -66,12 +66,6 @@ const moman = {
 
 ---
 
-## Trophies
-
-<p align="center">
-  <img src="trophy.svg" alt="GitHub Trophies" />
-</p>
-
 ## Contribution Calendar
 
 <div align="center">
